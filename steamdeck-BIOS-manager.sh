@@ -386,40 +386,40 @@ then
 
 		echo downloading Steam Deck LCD - Jupiter BIOS F7A0110_DeckHD
 		curl -s -O --output-dir $(pwd)/BIOS/ -L \
-			https://www.deckhd.com/downloads/F7A0110_DeckHD.fd
+			https://web.archive.org/web/20250731205410/https://www.deckhd.com/downloads/F7A0110_DeckHD.fd
 
 		echo downloading Steam Deck LCD - Jupiter BIOS F7A0113_DeckHD
 		curl -s -O --output-dir $(pwd)/BIOS/ -L \
-			https://www.deckhd.com/downloads/F7A0113_DeckHD.fd
+			https://web.archive.org/web/20250731205410/https://www.deckhd.com/downloads/F7A0113_DeckHD.fd
 
 		echo downloading Steam Deck LCD - Jupiter BIOS F7A0115_DeckHD
 		curl -s -O --output-dir $(pwd)/BIOS/ -L \
-			https://www.deckhd.com/downloads/F7A0115_DeckHD.fd
+			https://web.archive.org/web/20250731205410/https://www.deckhd.com/downloads/F7A0115_DeckHD.fd
 
 		echo downloading Steam Deck LCD - Jupiter BIOS F7A0116_DeckHD
 		curl -s -O --output-dir $(pwd)/BIOS/ -L \
-			https://www.deckhd.com/downloads/F7A0116_DeckHD.fd
+			https://web.archive.org/web/20250731205410/https://www.deckhd.com/downloads/F7A0116_DeckHD.fd
 
 		echo downloading Steam Deck LCD - Jupiter BIOS F7A0118_DeckHD
 		curl -s -O --output-dir $(pwd)/BIOS/ -L \
-			https://www.deckhd.com/downloads/F7A0118_DeckHD.fd
+			https://web.archive.org/web/20250731205410/https://www.deckhd.com/downloads/F7A0118_DeckHD.fd
 
 		echo downloading Steam Deck LCD - Jupiter BIOS F7A0119_DeckHD
 		curl -s -O --output-dir $(pwd)/BIOS/ -L \
-			https://www.deckhd.com/downloads/F7A0119_DeckHD.fd
+			https://web.archive.org/web/20250731205410/https://www.deckhd.com/downloads/F7A0119_DeckHD.fd
 
 		echo downloading Steam Deck LCD - Jupiter BIOS F7A0120_DeckHD
 		curl -s -O --output-dir $(pwd)/BIOS/ -L \
-			https://www.deckhd.com/downloads/F7A0120_DeckHD.fd
+			https://web.archive.org/web/20250731205410/https://www.deckhd.com/downloads/F7A0120_DeckHD.fd
 
 		echo downloading Steam Deck LCD - Jupiter BIOS F7A0121_DeckHD
 		curl -s -O --output-dir $(pwd)/BIOS/ -L \
-			https://www.deckhd.com/downloads/F7A0121_DeckHD.fd
+			https://web.archive.org/web/20250731205410/https://www.deckhd.com/downloads/F7A0121_DeckHD.fd
 
 		echo downloading Steam Deck LCD - Jupiter BIOS F7A0131_DeckHD
 		curl -s -O --output-dir $(pwd)/BIOS/ -L \
-			https://www.deckhd.com/downloads/F7A0131_DeckHD.fd
-
+			https://web.archive.org/web/20250731205410/https://www.deckhd.com/downloads/F7A0131_DeckHD.fd
+			
 		echo downloading Steam Deck LCD - Jupiter BIOS F7A0110_DeckHD_32GB
 		curl -s -O --output-dir $(pwd)/BIOS/ -L \
 			https://balika011.hu/deck_32gb/F7A0110_DeckHD_32GB.fd
