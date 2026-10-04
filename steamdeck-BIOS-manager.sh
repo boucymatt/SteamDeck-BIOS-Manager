@@ -419,6 +419,10 @@ then
 		echo downloading Steam Deck LCD - Jupiter BIOS F7A0131_DeckHD
 		curl -s -O --output-dir $(pwd)/BIOS/ -L \
 			https://web.archive.org/web/20250731205410/https://www.deckhd.com/downloads/F7A0131_DeckHD.fd
+		
+		echo downloading Steam Deck LCD - BIOS F7A0133_DeckHD
+		curl -s -O --output-dir $(pwd)/BIOS/ -L \
+			https://boucydesigns.com/downloads/F7A0133_sign_deckhd.fd
 			
 		echo downloading Steam Deck LCD - Jupiter BIOS F7A0110_DeckHD_32GB
 		curl -s -O --output-dir $(pwd)/BIOS/ -L \
