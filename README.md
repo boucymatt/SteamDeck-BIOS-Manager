@@ -140,7 +140,7 @@ Reason for that - it will always be identified as SDA1 and the script will forma
 1. Go into Desktop Mode and open a konsole terminal.
 2. Clone the github repo. \
    cd ~/ \
-   git clone https://github.com/ryanrudolfoba/SteamDeck-BIOS-Manager.git
+   git clone https://github.com/boucymatt/SteamDeck-BIOS-Manager
 3. Execute the script! \
    cd ~/SteamDeck-BIOS-Manager \
    chmod +x steamdeck-BIOS-manager.sh \
